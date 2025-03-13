@@ -204,7 +204,7 @@ a.button {
 }
 
 .logo-white {
-    display: none;
+    display: block;
 }
 
 .flaticon {
